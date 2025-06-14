@@ -1,0 +1,21 @@
+1. O que é Machine Learning?
+
+Aprendizado de máquina, uma área da inteligência artificial que ensina computadores a aprender padrões a partir de dados, sem precisar ser programado para cada tarefa. É como treinar um aluno a reconhecer frutas: em vez de dizer "maçã é vermelha e tem tal formato", você mostra várias maçãs e laranjas, e ele aprende a diferenciá-las sozinho.
+
+2. Conjuntos de dados em Machine Learning
+
+Conjunto de treinamento: Ensina o modelo através dos dados.
+Conjunto de validação: Verifica se o modelo está aprendendo corretamente.
+Conjunto de teste: Avalia se o modelo funciona bem na prática.
+
+3. Como lidar com dados ausentes?
+Remoção: Eliminação das linhas ausentes (Só é ideal se a porcentagem de dados ausente for baixa ou se não forem relevantes para a análise)
+Imputação: Substituição dos dados ausentes por médias, modas ou valores constantes.
+Tratamento especial: Algoritmos de machine learning como arvores de decisão ou maquinas de reforço de gradiente.
+Estes métodos dependem do tipo de dados (numérico, categórico) sendo necessário escolher a abordagem que melhor se encaixa.
+
+4. O que é uma matriz de confusão?
+Serve para melhorar o modelo e ajustar suas previsões. Faz isso através de comparações de previsões corretas e incorretas. 
+
+5. Áreas interessantes para Machine Learning
+Acredito que na manufatura, para automação de processos, e na medicina, para facilitar o diagnóstico de doenças através de analises de exames.
